@@ -1,6 +1,6 @@
 # PrimeX
 
-This software project accompanies the research paper, [PrimeX: A dataset of worldview, opinion, and explanation](https://arxiv.org).
+This software project accompanies the research paper, [PrimeX: A dataset of worldview, opinion, and explanation](https://arxiv.org/abs/2510.00174).
 
 Public opinion survey data from a diverse set of 858 American participants with two novel sources of additional information: written explanations from the respondents for why they hold specific beliefs, and the 18 question Primal World Belief instrument for assessing worldview.
 
